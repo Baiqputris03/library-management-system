@@ -2,7 +2,7 @@
 
 Flask==2.3.2
 Flask-MySQL==1.6.0
-gunicorn==23.0.0
+gunicorn
 packaging==25.0
 PyMySQL==1.1.1
 setuptools==78.1.1
